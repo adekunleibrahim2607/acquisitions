@@ -36,6 +36,10 @@
   },
   "homepage": "https://github.com/adekunleibrahim2607/acquisitions#readme",
   "dependencies": {
+    "@anthropic-ai/sdk": "^0.137.0",
+    "@arcjet/guard": "^1.15.0",
+    "@arcjet/inspect": "^1.15.0",
+    "@arcjet/node": "^1.15.0",
     "@neondatabase/serverless": "^1.2.0",
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
